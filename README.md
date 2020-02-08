@@ -1,4 +1,4 @@
-Note: Prework that was done prior to starting the coding bootcamp program.
+Note: This was part of the assigned Prework package, this was completed prior to starting the bootcamp.
 ## About Me 
 
 * This website is a static HTML website using semantic tags and minimal CSS. 
