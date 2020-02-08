@@ -1,3 +1,4 @@
+Note: Prework that was done prior to starting the coding bootcamp program.
 ## About Me 
 
 * This website is a static HTML website using semantic tags and minimal CSS. 
